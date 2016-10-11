@@ -1,0 +1,13 @@
+title: "Alok Mysore"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+exclude: ["index.html"]

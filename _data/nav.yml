@@ -1,0 +1,11 @@
+- name: "LinkedIn"
+  link: "https://www.linkedin.com/in/aloksm"
+
+- name: "Github"
+  link: "https://github.com/alok-sm"
+
+- name: "Email"
+  link: "mailto:alok.shankar.m@gmail.com"
+
+- name: "Resume"
+  link: "/files/Resume-Alok_Mysore.pdf"
