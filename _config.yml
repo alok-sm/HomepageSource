@@ -10,4 +10,4 @@ sass:
     style: compressed
     sass_dir: _sass
 
-exclude: ["index.html"]
+exclude: ["deploy.sh"]
