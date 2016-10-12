@@ -6,8 +6,8 @@ git push
 
 printf "\n*** End: commit source, Begin: build ***\n\n"
 
-cd _site/
 jekyll build
+cd _site/
 
 printf "\n*** End: build, Begin: Commit website ***\n\n"
 
