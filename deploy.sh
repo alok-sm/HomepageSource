@@ -1,18 +1,18 @@
-echo "*** Begin: commit source ***"
+echo "\n*** Begin: commit source ***\n"
 
 git add .
 git commit -m "commit at $(date)"
 git push
 
-echo "*** End: commit source, Begin: build ***"
+echo "\n*** End: commit source, Begin: build ***\n"
 
 cd _site/
 jekyll build
 
-echo "*** End: build, Begin: Commit website ***"
+echo "\n*** End: build, Begin: Commit website ***\n"
 
 git add .
 git commit -m "commit at $(date)"
 git push  origin master
 
-echo "*** End: Commit website ***"
+echo "\n*** End: Commit website ***\n"
