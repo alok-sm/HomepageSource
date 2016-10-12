@@ -58,13 +58,11 @@ layout: default
 <h1>My Research</h1>
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/woc_logo.png" class="logo">
-	<h3>Studying the Wisdom of Crowds at scale</h3>
+	<h3>Investigating the Wisdom of Crowds at scale</h3>
 	<p>
 		Worked with Prof. <a href="https://5harad.com/" target="_blank">Sharad Goel</a> at the Stanford social systems lab to study the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research" target="_blank">Wisdom of Crowds Effect</a>. Built the Web experiment that ran on Amaon MTurk and involved in the data analytics.
 		<br>
-		<a href="http://dl.acm.org/citation.cfm?id=2815725" target="_blank">Short paper at ACM UIST 2015</a>
-		<br>
-		<a href="https://wisdomofcrowds.stanford.edu" target="_blank">Web Experiment</a>
+		<a href="http://dl.acm.org/citation.cfm?id=2815725" target="_blank">"Investigating the Wisdom of Crowds at scale"</a> - Alok Mysore, et al
 	</p>
 	<br>
 </div>
@@ -82,9 +80,40 @@ layout: default
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/cf_logo.png" class="logo">
 	<h3>Machine learning autoscaler for Cloud Foundry</h3>
 	<p>
-		Built a autoscaler that utilizes machine learning 
+		Built a autoscaler that utilizes machine learning to set application specific thresholds to scale up ans scale down based on test workloads
 	</p>
 	<br>
 	<br>
 </div>
+
+<h1>Awards</h1>
+<ul>
+	<li>
+		<strong>Mylan Hack summit 2016 - 1st runners up</strong>
+		<br>
+		Machine learning based solution to predict the spread of viruses across countries
+	</li>
+	<li>
+		<strong>InMobi Hackday 2016 - Winners</strong>
+		<br>
+		Semantic search in photo gallery with queries like “photos on a beach” or “photos of me and X”
+	</li>
+	<li>
+		<strong>Google Bizdroid Hackathon 2014 - Winners</strong>
+		<br>
+		Real Time location based offers from local business to the consumer
+	</li>
+	<li>
+		<strong>Google Indic Language Android Hackathon 2014 - Winners</strong>
+		<br>
+		Crowd-sourcing and gamifying language translations
+	</li>
+	<li>
+		<strong>Microsoft Ventures Hackathon 2014 - 2nd Runners up</strong>
+		<br>
+		App to meet relevant people on events based on LinkedIn and Facebook data
+	</li>
+</ul>
+
+
 
