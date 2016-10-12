@@ -2,7 +2,7 @@ printf "\n*** Begin: commit source ***\n\n"
 
 git add .
 git commit -m "commit at $(date)"
-git push
+git push origin master
 
 printf "\n*** End: commit source, Begin: build ***\n\n"
 
