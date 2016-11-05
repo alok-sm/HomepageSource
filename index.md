@@ -86,7 +86,7 @@ layout: default
 	<br>
 </div>
 
-<h1>Awards</h1>
+<h1>Hacking</h1>
 <ul>
 	<li>
 		<strong>Mylan Hack summit 2016 - 1st runners up</strong>
