@@ -9,7 +9,7 @@ layout: default
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/ucsd_logo.png" class="logo">
 	<p>
-		I am a grad student at <a href="http://ucsd.edu" target="_blank">UC San Diego</a> pursuing my masters in computer science. Currently, I am also a Teaching Assistant for the <a href="http://ixd.ucsd.edu/home/f16/" target="_blank">Fall 2016 Interaction Design</a> course instructed by Prof. <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a>. Also, I am currently working with Prof. <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a> to better instructable systems and with Prof.<a href="http://5harad.com" target="_blank">Sharad Goel</a> on the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research">Wisdom of Crowds</a> project.
+		I am a grad student at <a href="http://ucsd.edu" target="_blank">UC San Diego</a> pursuing my masters in computer science. Currently, I am also a Teaching Assistant for the <a href="http://ixd.ucsd.edu/home/f16/" target="_blank">Fall 2016 Interaction Design</a> course instructed by  <a href="http://www.pgbovine.net" target="_blank">Prof. Philip Guo</a>. Also, I am currently working with  <a href="http://www.pgbovine.net" target="_blank">Prof. Philip Guo</a> to better instructable systems and with  <a href="http://5harad.com" target="_blank">Prof. Sharad Goel</a> on the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research">Wisdom of Crowds</a> project.
 	</p>
 	<br>
 	<br>
@@ -60,7 +60,7 @@ layout: default
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/woc_logo.png" class="logo">
 	<h3>Investigating the Wisdom of Crowds at scale</h3>
 	<p>
-		Worked with Prof. <a href="https://5harad.com/" target="_blank">Sharad Goel</a> at the Stanford social systems lab to study the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research" target="_blank">Wisdom of Crowds Effect</a>. Built the Web experiment that ran on Amaon MTurk and involved in the data analytics.
+		Worked with  <a href="https://5harad.com/" target="_blank">Prof. Sharad Goel</a> at the Stanford social systems lab to study the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research" target="_blank">Wisdom of Crowds Effect</a>. Built the Web experiment that ran on Amaon MTurk and involved in the data analytics.
 		<br>
 		<a href="http://dl.acm.org/citation.cfm?id=2815725" target="_blank">"Investigating the Wisdom of Crowds at scale"</a> - Alok Mysore, et al
 	</p>
