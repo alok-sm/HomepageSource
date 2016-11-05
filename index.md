@@ -9,7 +9,7 @@ layout: default
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/ucsd_logo.png" class="logo">
 	<p>
-		I am a grad student at <a href="http://ucsd.edu" target="_blank">UC San Diego</a> pursuing my masters in computer science. Currently, I am also a Teaching Assistant for the <a href="http://ixd.ucsd.edu/home/f16/" target="_blank">Fall 2016 Interaction Design</a> course instructed by <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a>. Also, I am currently working with <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a> to better instructable systems
+		I am a grad student at <a href="http://ucsd.edu" target="_blank">UC San Diego</a> pursuing my masters in computer science. Currently, I am also a Teaching Assistant for the <a href="http://ixd.ucsd.edu/home/f16/" target="_blank">Fall 2016 Interaction Design</a> course instructed by Prof. <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a>. Also, I am currently working with Prof. <a href="http://www.pgbovine.net" target="_blank">Philip Guo</a> to better instructable systems and with Prof.<a href="http://5harad.com" target="_blank">Sharad Goel</a> on the <a href="https://wisdomofcrowds.stanford.edu/web/#/about/research">Wisdom of Crowds</a> project.
 	</p>
 	<br>
 	<br>
