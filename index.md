@@ -88,8 +88,7 @@ layout: default
 	<br>
 </div>
 
-<a name="hacking"></a>
-<h1>Hacking</h1>
+<a name="hacking"><h1>Hacking</h1></a>
 <ul>
 	<li>
 		<strong>Mylan Hack summit 2016 - 1st runners up</strong>
