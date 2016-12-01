@@ -5,6 +5,7 @@ layout: default
 
 ![Profile Picture]({{ site.url }}{{ site.baseurl }}/files/images/avatar.jpg){:class="profile-picture"}
 
+<a name="aboutme"></a>
 <h1>About me</h1>
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/ucsd_logo.png" class="logo">
@@ -25,7 +26,7 @@ layout: default
 	<br>
 </div>
 
-
+<a name="workexp"></a>
 <h1>Work Experience</h1>
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/outlook_logo.png" class="logo">
@@ -55,6 +56,7 @@ layout: default
 </div>
 
 <br>
+<a name="research"></a>
 <h1>My Research</h1>
 <div>
 	<img src="{{ site.url }}{{ site.baseurl }}/files/images/woc_logo.png" class="logo">
@@ -86,6 +88,7 @@ layout: default
 	<br>
 </div>
 
+<a name="hacking"></a>
 <h1>Hacking</h1>
 <ul>
 	<li>
